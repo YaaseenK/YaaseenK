@@ -1,7 +1,8 @@
 <!-- BANNER -->
 [![MasterHead](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yaaseen Khan</h1>
-<h3 align="center"> currently building a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL. (:</h3>
+<h3 align="center"> I am currently building the back end for an e-commerce site by modifying starter code. I’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+ (:</h3>
 <br></br>
 <!-- GIF -->
 <img align ='right' alt='CODING' width='400' src='https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif'>
