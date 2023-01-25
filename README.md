@@ -6,7 +6,7 @@
 <!-- GIF -->
 <img align ='right' alt='CODING' width='400' src='https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif'>
 <!-- DESCRIPTION -->
-<p align='left'> 🔭 Developer for: [w12_EMP_TRACKER](https://github.com/YaaseenK/w12_SQL_EMP_TRACKER)</p>
+<p align='left'> 🔭 Developer for: [e-commerce_back_end](https://github.com/YaaseenK/e-commerce_back_end)</p>
 <p align='left'> 🌱 I’m currently learning **ORM** </p> 
 <p align='left' > 💬 Ask me about **React**</p> 
 <p align='left'> 📫 How to reach me **ykpro98@gmail.com** </p> 
