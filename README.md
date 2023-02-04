@@ -7,7 +7,7 @@
 <!-- GIF -->
 <img align ='right' alt='CODING' width='400' src='https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif'>
 <!-- DESCRIPTION -->
-<p align='left'> 🔭 Developer for: [e-commerce_back_end](https://github.com/YaaseenK/e-commerce_back_end)</p>
+<p align='left'> 🔭 Developer for: [_Blog_](https://github.com/YaaseenK/_Blog_)</p>
 <p align='left'> 🌱 I’m currently learning **React** </p> 
 <p align='left' > 💬 Ask me about **MERN**</p> 
 <p align='left'> 📫 How to reach me **ykpro98@gmail.com** </p> 
