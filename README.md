@@ -9,7 +9,7 @@
 <!-- DESCRIPTION -->
 <p align='left'> 🔭 Developer for: [_Blog_](https://github.com/YaaseenK/_Blog_)</p>
 <p align='left'> 🌱 I’m currently learning **React** </p> 
-<p align='left' > 💬 Ask me about **MERN**</p> 
+<p align='left' > 💬 Ask me about **NOSQL**</p> 
 <p align='left'> 📫 How to reach me **ykpro98@gmail.com** </p> 
 <p align='left'> 📄 Know about my experiences (Resume)</p> 
 <p align='left'> ⚡ Fun fact **I am Funny**</p> 
