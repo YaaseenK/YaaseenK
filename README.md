@@ -1,6 +1,6 @@
 <!-- BANNER -->
 [![MasterHead](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Yaaseen Khan</h1>
+<h1 align="center">Hi 👋, I'm Yaaseen </h1>
 <h3 align="center"> I am currently building the back end for an e-commerce site by modifying starter code. I’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
  (:</h3>
 <br></br>
