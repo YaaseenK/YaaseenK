@@ -1,8 +1,5 @@
-<!-- BANNER -->
-
 # 💫 About Me:
 🔭 I’m currently working on: Data Structure and Algorithms/ LeetCode Mastery<br>👯 I’m looking to collaborate on: AI driven work<br>🌱 I’m currently learning: Data Structure and Algorithms<br>⚡ Fun fact: I love math
-[![MasterHead](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif)](https://rishavchanda.io)
 
 
 ## 🌐 Socials:
